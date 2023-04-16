@@ -1,7 +1,7 @@
 # Streamlit---Deploying-Sales-Prediction-Regression-ML-Model-into-GUI
 This repository showcases how to deploy a Sales Prediction Regression Machine Learning model into a Graphical User Interface (GUI) using Streamlit. 
 
-The project includes a step-by-step guide on how to train the model, prepare the data, and deploy the model using Streamlit. The GUI allows users to interact with the model, input custom values, and obtain predicted sales values based on the trained regression model.
+
 
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
