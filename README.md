@@ -4,9 +4,9 @@ This repository showcases how to deploy a Sales Prediction Regression Machine Le
 
 
 ## Summary
-| Code      | Name        | Published Article |  Deployed App |
-|-----------|-------------|:-------------:|------:|
-| LP4 | Sales Prediction App |  https://medium.com/@kwabenaabrefa/streamlining-machine-learning-deployment-with-streamlit-119ab86601cc | [Best app of the world](/) |
+| Code      | Name        | Published Article |
+|-----------|-------------|:-------------:|
+| LP4 | Sales Prediction App |  https://medium.com/@kwabenaabrefa/streamlining-machine-learning-deployment-with-streamlit-119ab86601cc |
 
 ## Project Description
 ----
